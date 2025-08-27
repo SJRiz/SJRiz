@@ -1,4 +1,4 @@
-## Hi, I'm Jawad 👋
+- 👋 Hi, I'm Jawad
 - 🏫 I'm a student at Queen's University - Applied Math & Computer Engineering  
 - ⚙️ I'm very passionate and interested in Data & Backend Engineering
 - ✉️ Feel free to reach out to me at rizvij006@gmail.com
