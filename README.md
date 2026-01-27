@@ -6,5 +6,3 @@ a free, open-source, Google Docs–style collaborative Python IDE that runs enti
 - 🎓 Applied Mathematics & Computer Engineering student at Queen’s University  
 - 🛠️ Focused on backend systems, data pipelines, and developer tooling  
 - 📫 Reach me at [rizvij006@gmail.com](mailto:rizvij006@gmail.com)
-
-*Currently open to internship opportunities.*
